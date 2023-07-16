@@ -2,7 +2,9 @@
 
 ## I`m a QA Engineer in Ukraine
 
-Latest work
+### LATEST WORK
+[- Automating job search](https://github.com/suuuree/Automating_email_sending)
+
 
 ## SKILLS
 ![JIRA](https://img.shields.io/badge/-JIRA-EE82EE?style-for-the-budge&logo=JIRA&logoColor=)
