@@ -2,6 +2,9 @@
 
 ## I`m a QA Engineer in Ukraine
 
+## MY CV 
+[+ CV QA Engineer](https://drive.google.com/file/d/1BT-Ehdz038x0kZ7LRR3IGEufvi5jYRcs/view?usp=sharing)
+
 ### LATEST WORK
 [- Automating job search](https://github.com/suuuree/Automating_email_sending)
 
