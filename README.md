@@ -32,8 +32,9 @@ Latest work
 NATIONAL UNIVERSITY “ODESA POLYTECHNIC”, ODESA, UKRAINE — BACHELOR 
 OF COMPUTER SCIENCE, 2024
 
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style-for-the-budge&logo=Telegram&logoColor=FFFFFF)](https://t.me/suuuureee)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4682B4?style-for-the-budge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/yelyzavetahordiienko/)
+[![E-Mail](https://img.shields.io/badge/-GMail-FF0000?style-for-the-budge&logo=gmail&logoColor=FFFFFF)](apple.idd245@gmail.com)
 
-
-
-Follow me
 
